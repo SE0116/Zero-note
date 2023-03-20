@@ -18,4 +18,4 @@
 
 ## 초기 설계
 ### ERD
-![image](https://user-images.githubusercontent.com/87646738/226279345-985e8f96-5d8c-4002-818e-9f0fcb426ae8.png)
+<img src="https://user-images.githubusercontent.com/87646738/226279345-985e8f96-5d8c-4002-818e-9f0fcb426ae8.png" width=500, height=300/>
