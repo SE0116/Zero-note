@@ -19,3 +19,7 @@
 ## 초기 설계
 ### ERD
 <img src="https://user-images.githubusercontent.com/87646738/226279345-985e8f96-5d8c-4002-818e-9f0fcb426ae8.png" width=500, height=300/>
+
+### UI
+#### 시작 페이지 (로그인 화면)
+<img src="https://user-images.githubusercontent.com/87646738/227220154-ef40e827-9ffd-4125-965d-836aa6f17b28.png" width=500, height=300/>
