@@ -2,6 +2,7 @@
 개인 메모용 웹 토이 프로젝트
 
 ## 프로젝트 목적
+### 벼락치기 식으로 행동하는 버릇을 고치자는 생각에서 시작된 프로젝트
 ### 지금까지 공부했던 파이썬 리마인드
 ### 직접 사용할 수 있을 정도의 페이지 제작
 
@@ -22,4 +23,6 @@
 
 ### UI
 #### 시작 페이지 (로그인 화면)
-<img src="https://user-images.githubusercontent.com/87646738/227220154-ef40e827-9ffd-4125-965d-836aa6f17b28.png" width=500, height=300/>
+<img src="https://user-images.githubusercontent.com/87646738/227266555-fed7c883-6264-42f7-b4fc-d4d44ec770ea.png" width=1000, height=600/>
+
+
